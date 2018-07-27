@@ -15,4 +15,5 @@ Copyright (c) 2018, Yushan Zhang
  
 Project based on the 
 [Computational Chemistry Python Cookiecutter](https://github.com/choderalab/cookiecutter-python-comp-chem)
-[Pep8 format created through YAPF](https://github.com/google/yapf)
+Pep8 format created through 
+[YAPF](https://github.com/google/yapf)
