@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: lj
+Version: 0.0.0+0.g7337b01.dirty
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Yushan Zhang
+Author-email: UNKNOWN
+License: MIT
+Description: The goal is to reproduce Rahman's paper (Correlations in the Motion of Atoms in Liquid Argon), with 864 particles interacting with a Lennard-Jones potential and compute corresponding properties
+        
+Platform: UNKNOWN

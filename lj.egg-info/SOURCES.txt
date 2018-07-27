@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+lj/__init__.py
+lj/_version.py
+lj/atom.py
+lj/gr.py
+lj.egg-info/PKG-INFO
+lj.egg-info/SOURCES.txt
+lj.egg-info/dependency_links.txt
+lj.egg-info/top_level.txt
+lj/data/look_and_say.dat
+lj/tests/__init__.py
+lj/tests/test_lj.py
